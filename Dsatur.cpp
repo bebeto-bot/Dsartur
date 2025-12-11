@@ -96,7 +96,7 @@ std::vector<std::pair<std::string, int>> dsatur(
 
 
 int main() {
-    std::string caminho = "imagem1.dot";
+    std::string caminho = "ex.dot";
     //std::cout << "Insira o nome do arquivo a ser lido: ";
     //std::cin >> caminho;
 
